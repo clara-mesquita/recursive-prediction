@@ -1,7 +1,7 @@
 {
-    "test - treated bbr esmond data ap-ba 07-03-2023_longest_interval.csv, LSTM": {
-        "RMSE": 35.6169503393369,
-        "MAE": 24.143202916115687,
-        "NRMSE": 0.18604021645557264
+    "test-failure - treated bbr esmond data ap-ba 07-03-2023.csv, LSTM": {
+        "RMSE": 38.08760116532306,
+        "MAE": 26.410184251457565,
+        "NRMSE": 0.1793829156740563
     }
 }
