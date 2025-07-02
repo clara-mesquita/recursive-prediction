@@ -1,0 +1,10 @@
+{
+  "test-failure - treated bbr esmond data ap-ba 07-03-2023.csv, LSTM_DECAY": {
+    "rmse": 29.068785296828864,
+    "mae": 15.661562763295501,
+    "nrmse": 0.13690658645091572,
+    "mean_confidence": 1.0,
+    "min_confidence": 1.0,
+    "decay_factor": 0.95
+  }
+}
