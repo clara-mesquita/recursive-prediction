@@ -1,0 +1,145 @@
+
+###################### test-failure - treated bbr esmond data ap-ba 07-03-2023.csv ##########################
+Processando 7 clusters de tamanho 20
+Iniciando Walk-Forward Validation OTIMIZADO...
+Iniciando grid search otimizado para LSTM...
+Fold 1 do modelo LSTM concluído
+Fold 2 do modelo LSTM concluído
+Fold 3 do modelo LSTM concluído
+Val Loss: nan, LR: 0.001, Units: 64, Epochs: 200, Batch: 16, Patience: 15
+Fold 1 do modelo LSTM concluído
+Fold 2 do modelo LSTM concluído
+Fold 3 do modelo LSTM concluído
+Val Loss: nan, LR: 0.001, Units: 64, Epochs: 200, Batch: 16, Patience: 25
+Fold 1 do modelo LSTM concluído
+Fold 2 do modelo LSTM concluído
+Fold 3 do modelo LSTM concluído
+Val Loss: nan, LR: 0.001, Units: 64, Epochs: 200, Batch: 32, Patience: 15
+Fold 1 do modelo LSTM concluído
+Fold 2 do modelo LSTM concluído
+Fold 3 do modelo LSTM concluído
+Val Loss: nan, LR: 0.001, Units: 64, Epochs: 200, Batch: 32, Patience: 25
+Fold 1 do modelo LSTM concluído
+Fold 2 do modelo LSTM concluído
+Fold 3 do modelo LSTM concluído
+Val Loss: nan, LR: 0.001, Units: 64, Epochs: 300, Batch: 16, Patience: 15
+Fold 1 do modelo LSTM concluído
+Fold 2 do modelo LSTM concluído
+Fold 3 do modelo LSTM concluído
+Val Loss: nan, LR: 0.001, Units: 64, Epochs: 300, Batch: 16, Patience: 25
+Fold 1 do modelo LSTM concluído
+Fold 2 do modelo LSTM concluído
+Fold 3 do modelo LSTM concluído
+Val Loss: nan, LR: 0.001, Units: 64, Epochs: 300, Batch: 32, Patience: 15
+Fold 1 do modelo LSTM concluído
+Fold 2 do modelo LSTM concluído
+Fold 3 do modelo LSTM concluído
+Val Loss: nan, LR: 0.001, Units: 64, Epochs: 300, Batch: 32, Patience: 25
+Fold 1 do modelo LSTM concluído
+Fold 2 do modelo LSTM concluído
+Fold 3 do modelo LSTM concluído
+Val Loss: nan, LR: 0.001, Units: 64, Epochs: 500, Batch: 16, Patience: 15
+Fold 1 do modelo LSTM concluído
+Fold 2 do modelo LSTM concluído
+Fold 3 do modelo LSTM concluído
+Val Loss: nan, LR: 0.001, Units: 64, Epochs: 500, Batch: 16, Patience: 25
+Fold 1 do modelo LSTM concluído
+Fold 2 do modelo LSTM concluído
+Fold 3 do modelo LSTM concluído
+Val Loss: nan, LR: 0.001, Units: 64, Epochs: 500, Batch: 32, Patience: 15
+Fold 1 do modelo LSTM concluído
+Fold 2 do modelo LSTM concluído
+Fold 3 do modelo LSTM concluído
+Val Loss: nan, LR: 0.001, Units: 64, Epochs: 500, Batch: 32, Patience: 25
+Fold 1 do modelo LSTM concluído
+Fold 2 do modelo LSTM concluído
+Fold 3 do modelo LSTM concluído
+Val Loss: nan, LR: 0.001, Units: 128, Epochs: 200, Batch: 16, Patience: 15
+Fold 1 do modelo LSTM concluído
+Fold 2 do modelo LSTM concluído
+Fold 3 do modelo LSTM concluído
+Val Loss: nan, LR: 0.001, Units: 128, Epochs: 200, Batch: 16, Patience: 25
+Fold 1 do modelo LSTM concluído
+Fold 2 do modelo LSTM concluído
+Fold 3 do modelo LSTM concluído
+Val Loss: nan, LR: 0.001, Units: 128, Epochs: 200, Batch: 32, Patience: 15
+Fold 1 do modelo LSTM concluído
+Fold 2 do modelo LSTM concluído
+Fold 3 do modelo LSTM concluído
+Val Loss: nan, LR: 0.001, Units: 128, Epochs: 200, Batch: 32, Patience: 25
+Fold 1 do modelo LSTM concluído
+Fold 2 do modelo LSTM concluído
+Fold 3 do modelo LSTM concluído
+Val Loss: nan, LR: 0.001, Units: 128, Epochs: 300, Batch: 16, Patience: 15
+Fold 1 do modelo LSTM concluído
+Fold 2 do modelo LSTM concluído
+Fold 3 do modelo LSTM concluído
+Val Loss: nan, LR: 0.001, Units: 128, Epochs: 300, Batch: 16, Patience: 25
+Fold 1 do modelo LSTM concluído
+Fold 2 do modelo LSTM concluído
+Fold 3 do modelo LSTM concluído
+Val Loss: nan, LR: 0.001, Units: 128, Epochs: 300, Batch: 32, Patience: 15
+Fold 1 do modelo LSTM concluído
+Fold 2 do modelo LSTM concluído
+Fold 3 do modelo LSTM concluído
+Val Loss: nan, LR: 0.001, Units: 128, Epochs: 300, Batch: 32, Patience: 25
+Fold 1 do modelo LSTM concluído
+Fold 2 do modelo LSTM concluído
+Fold 3 do modelo LSTM concluído
+Val Loss: nan, LR: 0.001, Units: 128, Epochs: 500, Batch: 16, Patience: 15
+Fold 1 do modelo LSTM concluído
+Fold 2 do modelo LSTM concluído
+Fold 3 do modelo LSTM concluído
+Val Loss: nan, LR: 0.001, Units: 128, Epochs: 500, Batch: 16, Patience: 25
+Fold 1 do modelo LSTM concluído
+Fold 2 do modelo LSTM concluído
+Fold 3 do modelo LSTM concluído
+Val Loss: nan, LR: 0.001, Units: 128, Epochs: 500, Batch: 32, Patience: 15
+Fold 1 do modelo LSTM concluído
+Fold 2 do modelo LSTM concluído
+Fold 3 do modelo LSTM concluído
+Val Loss: nan, LR: 0.001, Units: 128, Epochs: 500, Batch: 32, Patience: 25
+
+Melhores parâmetros para LSTM: {'learning_rate': 0.001, 'units': 64, 'epochs': 200, 'batch_size': 16, 'patience': 15}
+
+--- Janela k=1/7 (OTIMIZADA) ---
+
+TREINAMENTO OTIMIZADO: LSTM_janela_1
+Janela 1: 17 predições | 15 pontos reais adicionados ao histórico
+
+--- Janela k=2/7 (OTIMIZADA) ---
+
+TREINAMENTO OTIMIZADO: LSTM_janela_2
+Janela 2: 17 predições | 15 pontos reais adicionados ao histórico
+
+--- Janela k=3/7 (OTIMIZADA) ---
+
+TREINAMENTO OTIMIZADO: LSTM_janela_3
+Janela 3: 17 predições | 6 pontos reais adicionados ao histórico
+
+--- Janela k=4/7 (OTIMIZADA) ---
+
+TREINAMENTO OTIMIZADO: LSTM_janela_4
+Janela 4: 17 predições | 9 pontos reais adicionados ao histórico
+
+--- Janela k=5/7 (OTIMIZADA) ---
+
+TREINAMENTO OTIMIZADO: LSTM_janela_5
+Janela 5: 17 predições | 15 pontos reais adicionados ao histórico
+
+--- Janela k=6/7 (OTIMIZADA) ---
+
+TREINAMENTO OTIMIZADO: LSTM_janela_6
+Janela 6: 17 predições | 10 pontos reais adicionados ao histórico
+
+--- Janela k=7/7 (OTIMIZADA) ---
+
+TREINAMENTO OTIMIZADO: LSTM_janela_7
+Janela 7: 17 predições | 6 pontos reais adicionados ao histórico
+LSTM_OPTIMIZED (missing-aware):
+MAE:  nan
+RMSE: nan
+NRMSE:nan%
+
+Processamento otimizado concluído para test-failure - treated bbr esmond data ap-ba 07-03-2023.csv
+Processamento otimizado concluído!

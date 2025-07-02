@@ -1,0 +1,7 @@
+{
+    "test-failure - treated bbr esmond data ap-ba 07-03-2023.csv, LSTM_OPTIMIZED": {
+        "RMSE": NaN,
+        "MAE": NaN,
+        "NRMSE": NaN
+    }
+}
