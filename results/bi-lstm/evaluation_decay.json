@@ -1,11 +1,14 @@
 {
   "test-failure - treated bbr esmond data ap-ba 07-03-2023.csv, LSTM_DECAY": {
-    "rmse": 28.837082339734422,
-    "mae": 15.401196317240263,
-    "nrmse": 0.1358153244459002,
-    "mean_confidence": 1.0,
-    "min_confidence": 1.0,
+    "rmse": 39.99055433492538,
+    "mae": 27.13824509489584,
+    "nrmse": 0.1883453411750154,
+    "mean_confidence": 0.5960849302600456,
+    "min_confidence": 1.850040706955384e-06,
     "decay_factor": 0.95,
-    "initial_imputed_weight": 0.9
+    "initial_imputed_weight": 0.9,
+    "rolling_window": 24,
+    "std_threshold": 3.0,
+    "iqr_multiplier": 1.5
   }
 }
