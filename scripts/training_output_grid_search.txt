@@ -1,0 +1,312 @@
+
+============================================================
+Processando arquivo: treated bbr esmond data ap-ba 07-03-2023
+============================================================
+Iniciando grid search temporal para treated bbr esmond data ap-ba 07-03-2023
+Iniciando grid search com 88 combinações...
+Look-back range: [2, 4, 6, 8, 12, 16, 20, 28, 56, 84, 112]
+Window size range: [4, 8, 12, 16, 20, 28, 56, 84]
+
+Testando combinação 1/88: look_back=2, window_size=4
+  CV Score: 45.9398 ± 15.6953
+  *** Nova melhor combinação! ***
+
+Testando combinação 2/88: look_back=2, window_size=8
+  CV Score: 46.0500 ± 15.7009
+
+Testando combinação 3/88: look_back=2, window_size=12
+  CV Score: 45.9501 ± 15.8053
+
+Testando combinação 4/88: look_back=2, window_size=16
+  CV Score: 45.8795 ± 15.8498
+  *** Nova melhor combinação! ***
+
+Testando combinação 5/88: look_back=2, window_size=20
+  CV Score: 45.9517 ± 15.5788
+
+Testando combinação 6/88: look_back=2, window_size=28
+  CV Score: 45.9775 ± 15.7199
+
+Testando combinação 7/88: look_back=2, window_size=56
+  CV Score: 45.8478 ± 15.8250
+  *** Nova melhor combinação! ***
+
+Testando combinação 8/88: look_back=2, window_size=84
+  CV Score: 45.8696 ± 15.5735
+
+Testando combinação 9/88: look_back=4, window_size=4
+  CV Score: 44.5236 ± 8.5178
+  *** Nova melhor combinação! ***
+
+Testando combinação 10/88: look_back=4, window_size=8
+  CV Score: 44.2763 ± 8.6036
+  *** Nova melhor combinação! ***
+
+Testando combinação 11/88: look_back=4, window_size=12
+  CV Score: 44.8223 ± 8.0730
+
+Testando combinação 12/88: look_back=4, window_size=16
+  CV Score: 44.7019 ± 8.3985
+
+Testando combinação 13/88: look_back=4, window_size=20
+  CV Score: 44.6000 ± 9.0009
+
+Testando combinação 14/88: look_back=4, window_size=28
+  CV Score: 44.1500 ± 8.2555
+  *** Nova melhor combinação! ***
+
+Testando combinação 15/88: look_back=4, window_size=56
+  CV Score: 44.7391 ± 8.2549
+
+Testando combinação 16/88: look_back=4, window_size=84
+  CV Score: 44.9540 ± 8.1916
+
+Testando combinação 17/88: look_back=6, window_size=4
+  CV Score: 43.1929 ± 10.0536
+  *** Nova melhor combinação! ***
+
+Testando combinação 18/88: look_back=6, window_size=8
+  CV Score: 43.6660 ± 10.3509
+
+Testando combinação 19/88: look_back=6, window_size=12
+  CV Score: 43.2015 ± 10.2718
+
+Testando combinação 20/88: look_back=6, window_size=16
+  CV Score: 43.2300 ± 10.1394
+
+Testando combinação 21/88: look_back=6, window_size=20
+  CV Score: 44.7153 ± 9.6263
+
+Testando combinação 22/88: look_back=6, window_size=28
+  CV Score: 43.0291 ± 9.9084
+  *** Nova melhor combinação! ***
+
+Testando combinação 23/88: look_back=6, window_size=56
+  CV Score: 43.0091 ± 10.1561
+  *** Nova melhor combinação! ***
+
+Testando combinação 24/88: look_back=6, window_size=84
+  CV Score: 43.1615 ± 10.3265
+
+Testando combinação 25/88: look_back=8, window_size=4
+  CV Score: 42.7665 ± 10.8197
+  *** Nova melhor combinação! ***
+
+Testando combinação 26/88: look_back=8, window_size=8
+  CV Score: 42.8974 ± 11.2635
+
+Testando combinação 27/88: look_back=8, window_size=12
+  CV Score: 42.3144 ± 10.8061
+  *** Nova melhor combinação! ***
+
+Testando combinação 28/88: look_back=8, window_size=16
+  CV Score: 41.4620 ± 11.6343
+  *** Nova melhor combinação! ***
+
+Testando combinação 29/88: look_back=8, window_size=20
+  CV Score: 43.4132 ± 10.7047
+
+Testando combinação 30/88: look_back=8, window_size=28
+  CV Score: 41.6556 ± 11.7132
+
+Testando combinação 31/88: look_back=8, window_size=56
+  CV Score: 44.6900 ± 10.4970
+
+Testando combinação 32/88: look_back=8, window_size=84
+  CV Score: 41.4292 ± 11.5243
+  *** Nova melhor combinação! ***
+
+Testando combinação 33/88: look_back=12, window_size=4
+  CV Score: 43.0931 ± 14.5081
+
+Testando combinação 34/88: look_back=12, window_size=8
+  CV Score: 43.6596 ± 14.3813
+
+Testando combinação 35/88: look_back=12, window_size=12
+  CV Score: 43.4212 ± 14.4399
+
+Testando combinação 36/88: look_back=12, window_size=16
+  CV Score: 43.3341 ± 14.5842
+
+Testando combinação 37/88: look_back=12, window_size=20
+  CV Score: 44.6095 ± 15.5844
+
+Testando combinação 38/88: look_back=12, window_size=28
+  CV Score: 42.9281 ± 14.2452
+
+Testando combinação 39/88: look_back=12, window_size=56
+  CV Score: 43.3316 ± 14.6013
+
+Testando combinação 40/88: look_back=12, window_size=84
+  CV Score: 45.5684 ± 13.4607
+
+Testando combinação 41/88: look_back=16, window_size=4
+  CV Score: 46.5941 ± 15.2182
+
+Testando combinação 42/88: look_back=16, window_size=8
+  CV Score: 44.7228 ± 14.1729
+
+Testando combinação 43/88: look_back=16, window_size=12
+  CV Score: 44.9874 ± 14.3306
+
+Testando combinação 44/88: look_back=16, window_size=16
+  CV Score: 45.0286 ± 14.6545
+
+Testando combinação 45/88: look_back=16, window_size=20
+  CV Score: 44.8119 ± 14.3645
+
+Testando combinação 46/88: look_back=16, window_size=28
+  CV Score: 44.6701 ± 14.4969
+
+Testando combinação 47/88: look_back=16, window_size=56
+  CV Score: 44.7550 ± 14.1345
+
+Testando combinação 48/88: look_back=16, window_size=84
+  CV Score: 44.8704 ± 14.1877
+
+Testando combinação 49/88: look_back=20, window_size=4
+  CV Score: 35.6800 ± 6.3425
+  *** Nova melhor combinação! ***
+
+Testando combinação 50/88: look_back=20, window_size=8
+  CV Score: 35.8363 ± 5.8323
+
+Testando combinação 51/88: look_back=20, window_size=12
+  CV Score: 35.7300 ± 6.4506
+
+Testando combinação 52/88: look_back=20, window_size=16
+  CV Score: 35.9576 ± 5.5992
+
+Testando combinação 53/88: look_back=20, window_size=20
+  CV Score: 34.4148 ± 5.9918
+  *** Nova melhor combinação! ***
+
+Testando combinação 54/88: look_back=20, window_size=28
+  CV Score: 36.0820 ± 5.8328
+
+Testando combinação 55/88: look_back=20, window_size=56
+  CV Score: 35.0607 ± 5.8423
+
+Testando combinação 56/88: look_back=20, window_size=84
+  CV Score: 35.7725 ± 6.2845
+
+Testando combinação 57/88: look_back=28, window_size=4
+  CV Score: 37.2924 ± 14.0040
+
+Testando combinação 58/88: look_back=28, window_size=8
+  CV Score: 36.7480 ± 14.7034
+
+Testando combinação 59/88: look_back=28, window_size=12
+  CV Score: 36.0923 ± 13.1279
+
+Testando combinação 60/88: look_back=28, window_size=16
+  CV Score: 38.2036 ± 13.3551
+
+Testando combinação 61/88: look_back=28, window_size=20
+  CV Score: 36.3294 ± 15.1900
+
+Testando combinação 62/88: look_back=28, window_size=28
+  CV Score: 37.5807 ± 13.2591
+
+Testando combinação 63/88: look_back=28, window_size=56
+  CV Score: 36.8152 ± 13.8921
+
+Testando combinação 64/88: look_back=28, window_size=84
+  CV Score: 37.3695 ± 13.0488
+
+Testando combinação 65/88: look_back=56, window_size=4
+  Erro na combinação look_back=56, window_size=4: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required.
+
+Testando combinação 66/88: look_back=56, window_size=8
+  Erro na combinação look_back=56, window_size=8: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required.
+
+Testando combinação 67/88: look_back=56, window_size=12
+  Erro na combinação look_back=56, window_size=12: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required.
+
+Testando combinação 68/88: look_back=56, window_size=16
+  Erro na combinação look_back=56, window_size=16: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required.
+
+Testando combinação 69/88: look_back=56, window_size=20
+  Erro na combinação look_back=56, window_size=20: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required.
+
+Testando combinação 70/88: look_back=56, window_size=28
+  Erro na combinação look_back=56, window_size=28: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required.
+
+Testando combinação 71/88: look_back=56, window_size=56
+  Erro na combinação look_back=56, window_size=56: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required.
+
+Testando combinação 72/88: look_back=56, window_size=84
+  Erro na combinação look_back=56, window_size=84: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required.
+
+Testando combinação 73/88: look_back=84, window_size=4
+  Erro na combinação look_back=84, window_size=4: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required.
+
+Testando combinação 74/88: look_back=84, window_size=8
+  Erro na combinação look_back=84, window_size=8: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required.
+
+Testando combinação 75/88: look_back=84, window_size=12
+  Erro na combinação look_back=84, window_size=12: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required.
+
+Testando combinação 76/88: look_back=84, window_size=16
+  Erro na combinação look_back=84, window_size=16: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required.
+
+Testando combinação 77/88: look_back=84, window_size=20
+  Erro na combinação look_back=84, window_size=20: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required.
+
+Testando combinação 78/88: look_back=84, window_size=28
+  Erro na combinação look_back=84, window_size=28: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required.
+
+Testando combinação 79/88: look_back=84, window_size=56
+  Erro na combinação look_back=84, window_size=56: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required.
+
+Testando combinação 80/88: look_back=84, window_size=84
+  Erro na combinação look_back=84, window_size=84: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required.
+
+Testando combinação 81/88: look_back=112, window_size=4
+  Erro na combinação look_back=112, window_size=4: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required.
+
+Testando combinação 82/88: look_back=112, window_size=8
+  Erro na combinação look_back=112, window_size=8: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required.
+
+Testando combinação 83/88: look_back=112, window_size=12
+  Erro na combinação look_back=112, window_size=12: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required.
+
+Testando combinação 84/88: look_back=112, window_size=16
+  Erro na combinação look_back=112, window_size=16: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required.
+
+Testando combinação 85/88: look_back=112, window_size=20
+  Erro na combinação look_back=112, window_size=20: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required.
+
+Testando combinação 86/88: look_back=112, window_size=28
+  Erro na combinação look_back=112, window_size=28: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required.
+
+Testando combinação 87/88: look_back=112, window_size=56
+  Erro na combinação look_back=112, window_size=56: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required.
+
+Testando combinação 88/88: look_back=112, window_size=84
+  Erro na combinação look_back=112, window_size=84: Found array with 0 sample(s) (shape=(0, 1)) while a minimum of 1 is required.
+Grid search concluído em 2522.10 segundos
+Melhores parâmetros temporais:
+  Look-back: 20
+  Window size: 20
+  CV Score: 34.4148
+
+Treinando modelo final com parâmetros otimizados...
+LSTM (missing-aware):
+MAE:  14.2959
+RMSE: 26.4980
+NRMSE:2.8671%
+
+
+Resultados finais para treated bbr esmond data ap-ba 07-03-2023:
+RMSE: 26.4980
+MAE: 14.2959
+NRMSE: 0.0287
+NRMSE com média: 0.1384
+Predições salvas em: resultados-recursive-prediction-grid\predicoes\treated_bbr_esmond_data_ap_ba_07_03_2023_predictions_optimized.csv
+Gráfico de perda salvo em: resultados-recursive-prediction-grid\plots\loss\treated_bbr_esmond_data_ap_ba_07_03_2023_loss_optimized.png
+Gráfico de predições salvo em: resultados-recursive-prediction-grid\plots\predicoes\treated_bbr_esmond_data_ap_ba_07_03_2023_predictions_optimized.png
+Processamento concluído para: treated bbr esmond data ap-ba 07-03-2023
+Métricas finais salvas em: resultados-recursive-prediction-grid\metricas_optimized.csv
+Resultados do grid search salvos em: resultados-recursive-prediction-grid\grid_search\grid_search_results.json
+Evaluation dictionary salvo em: resultados-recursive-prediction-grid\evaluation_optimized.json
